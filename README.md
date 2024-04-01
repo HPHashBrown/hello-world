@@ -5,6 +5,6 @@ Im HPhashbrown, nice to meet you!
 
 Welcome to my GitHub repository!
 
-pythagorean theorem = a * a + b * b = c * c
+Print ("hi!")
 
 Learning Python ATM
