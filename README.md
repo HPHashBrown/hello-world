@@ -5,4 +5,4 @@ Im HPhashbrown, nice to meet you!
 
 Welcome to my GitHub repository!
 
-print(7 + 2)
+pythagorean theorem = a*a + b*b = c*c
